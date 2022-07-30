@@ -1,6 +1,6 @@
 # C Language
 
-![image](https://user-images.githubusercontent.com/90493668/181919844-efa919e4-04f9-4c72-bede-95351de1ea66.png)
+![image](https://user-images.githubusercontent.com/90493668/181919867-b925a8d2-766d-4f92-959b-a558d5b3cb2b.png)
 
 C is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system.
 
